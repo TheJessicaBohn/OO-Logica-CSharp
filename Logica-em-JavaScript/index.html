@@ -3,30 +3,207 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
-        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-        crossorigin="anonymous"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/bootstrap.css.map" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
+
     <title>teste de lógica</title>
 </head>
 
 <body>
-    <h2>Teste de Lógica</h2>
-    <span>Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o
-        código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser
-        pago.</span>
+    <div class="span12 text-center">
+        <h2>Teste de Lógica</h2>
+        <h4>Exercício 1.1:</h4>
+        <span>Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o
+            código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser
+            pago.</span>
+    </div>
 
-    <table class="table table-dark table-striped">
-        teste
-        teste1
+    <table class="table table-striped table-dark">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col"> </th>
+                <th scope="col">Entrada</th>
+                <th scope="col"> </th>
+                <th scope="col"> </th>
+                <th scope="col">Saída</th>
+            </tr>
+        </thead>
+        <thead>
+            <tr>
+                <th scope="col"> </th>
+                <th scope="col">Código</th>
+                <th scope="col">Quantidade</th>
+                <th scope="col">Preço</th>
+                <th scope="col"> </th>
+                <th scope="col">Valor a pagar:</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>12</td>
+                <td>1</td>
+                <td>5.30</td>
+                <td> </td>
+                <td>15.50</td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>16</td>
+                <td>2</td>
+                <td>5.10</td>
+                <td> </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>13</td>
+                <td>2</td>
+                <td>15.30</td>
+                <td> </td>
+                <td>51.40</td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td>161</td>
+                <td>4</td>
+                <td>5.2</td>
+                <td> </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>1</td>
+                <td>1</td>
+                <td>15.10</td>
+                <td> </td>
+                <td>30.20</td>
+            </tr>
+            <tr>
+                <th scope="row">6</th>
+                <td>2</td>
+                <td>1</td>
+                <td>15.10</td>
+                <td> </td>
+                <td> </td>
+            </tr>
+        </tbody>
     </table>
+
+    <hr>
+    <div class="span12 text-center">
+        <h4>Exercício 1.2:</h4>
+        <span>Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro
+            casas decimais conforme exemplos.
+            Fórmula: area = π.raio²
+            Considere o valor de π = 3.14159
+        </div>
+
+    <table class="table table-striped table-dark">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Entrada</th>
+                <th scope="col">Saída</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>2.00</td>
+                <td>A=12.5664</td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>100.64</td>
+                <td>A=31819.3103</td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>150.00</td>
+                <td>A=70685.7750</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+<body>
+    <div class="span12 text-center">
+        <h2>Estrutura Condicional</h2>
+        <h4>Exercício 2.1:</h4>
+        <span>Com base na tabela de preços ao lado, faça um programa que leia o código de um item e a
+            quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.</span>
+    </div>
+
+    <table class="table table-striped table-dark">
+        <thead>
+            <tr>
+                <th scope="col"> </th>
+                <th scope="col">Código</th>
+                <th scope="col">Quantidade</th>
+                <th scope="col">Preço</th>
+                <th scope="col"> </th>
+                <th scope="col">Valor a pagar:</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>12</td>
+                <td>1</td>
+                <td>5.30</td>
+                <td> </td>
+                <td>15.50</td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>16</td>
+                <td>2</td>
+                <td>5.10</td>
+                <td> </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>13</td>
+                <td>2</td>
+                <td>15.30</td>
+                <td> </td>
+                <td>51.40</td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td>161</td>
+                <td>4</td>
+                <td>5.2</td>
+                <td> </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>1</td>
+                <td>1</td>
+                <td>15.10</td>
+                <td> </td>
+                <td>30.20</td>
+            </tr>
+            <tr>
+                <th scope="row">6</th>
+                <td>2</td>
+                <td>1</td>
+                <td>15.10</td>
+                <td> </td>
+                <td> </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+
 
 
 </body>
