@@ -1,0 +1,16 @@
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\bin\Debug\net5.0\CsharpHelloWorld.exe
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\bin\Debug\net5.0\CsharpHelloWorld.deps.json
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\bin\Debug\net5.0\CsharpHelloWorld.runtimeconfig.json
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\bin\Debug\net5.0\CsharpHelloWorld.runtimeconfig.dev.json
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\bin\Debug\net5.0\CsharpHelloWorld.dll
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\bin\Debug\net5.0\ref\CsharpHelloWorld.dll
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\bin\Debug\net5.0\CsharpHelloWorld.pdb
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\CsharpHelloWorld.csprojAssemblyReference.cache
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\CsharpHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\CsharpHelloWorld.AssemblyInfoInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\CsharpHelloWorld.AssemblyInfo.cs
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\CsharpHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\CsharpHelloWorld.dll
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\ref\CsharpHelloWorld.dll
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\CsharpHelloWorld.pdb
+C:\Users\JessicaBohn\Desktop\Git\OO-Logica-CSharp\Primeiro-Projeto\CsharpHelloWorld\obj\Debug\net5.0\CsharpHelloWorld.genruntimeconfig.cache
