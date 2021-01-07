@@ -20,6 +20,10 @@
         - Porém em projetos maiores existe o Assembly - DLL ou EXE (agrupamento físio) de outros namespaces, representado cada um uma parte de um sistema;
         - E por fim a Aplicação completa (Solution), é composta pelo conjunto de assemblies;
 
+## Ferramentas:
+    - O curso original opita por utilizar o Visual Studio Community 2019, que ao instaçar já vem com as configurações, porém eu optei por utilizar o visual studio code, que é mais simples e mais leve, porém teremos de instalar o SDK a parte;
+    - Visual Studio Code: https://code.visualstudio.com/download;
+    - SDK 3.1.3: https://dotnet.microsoft.com/download/dotnet-core/3.1
 
 ## Fonte:
 -  Esse repositório é baseado no curso da udemy :https://www.udemy.com/course/programacao-orientada-a-objetos-csharp, porém com atualizações e mudanças minhas.
