@@ -15,6 +15,11 @@
     - C# é uma linguagem híbrida, ou seja, ela mescla o funcionamento de uma linguagem intempretada com o de uma linguagem compilada;
     - Passa por uma pre-compilação que gera o Bytecode(linguagem pré-complilada em CIL - Common Intermediate Language);
     - Para que o código seja executado em SO's diferentes é necessário que se tenha o CLR instalado nos respectivos SO's, sem que o código seja necessário ser modificado.
+    - ### Projetos:
+        - Sua aplicação é composta por um conjunto de classes, agurpadas por um namespace (agrupamento lógico);
+        - Porém em projetos maiores existe o Assembly - DLL ou EXE (agrupamento físio) de outros namespaces, representado cada um uma parte de um sistema;
+        - E por fim a Aplicação completa (Solution), é composta pelo conjunto de assemblies;
+
 
 ## Fonte:
 -  Esse repositório é baseado no curso da udemy :https://www.udemy.com/course/programacao-orientada-a-objetos-csharp, porém com atualizações e mudanças minhas.
